@@ -272,7 +272,7 @@ body {
     position: absolute;
     top: 0;
     right: 30px;
-    width: 550px;
+    width: 140%;
     height: 100%;
     background: transparent;
     transition: 3s;
@@ -583,7 +583,7 @@ body {
     position: absolute;
     top: 0;
     right: 30px;
-    width: 500px;
+    width: 140%;
     height: 100%;
     background: transparent;
     transition: 3s;
@@ -894,7 +894,7 @@ body {
     position: absolute;
     top: 0;
     right: 30px;
-    width: 500px;
+    width: 140%;
     height: 100%;
     background: transparent;
     transition: 3s;
@@ -1208,7 +1208,7 @@ body {
     position: absolute;
     top: 0;
     right: 30px;
-    width: 500px;
+    width: 140%;
     height: 100%;
     background: transparent;
     transition: 3s;
