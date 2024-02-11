@@ -1052,6 +1052,7 @@ body {
     position: relative;
     font-size: 16px;
     margin: 20px 0 40px;
+    color: white;
 }
 
 .portfolio-content p::before {
@@ -1200,6 +1201,8 @@ body {
 .portfolio-sci a:hover::before {
     width: 100%;
 }
+
+
 
 .portfolio-imgHover {
     position: absolute;
