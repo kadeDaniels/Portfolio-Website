@@ -376,7 +376,7 @@ body {
 
 .about {
     height: 100vh;
-    background: url('Home 2.png') no-repeat;
+    background: url('./images/home 2.png') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -687,7 +687,7 @@ body {
 
 .contact {
     height: 100vh;
-    background: url('Home 2.png') no-repeat;
+    background: url('./images/home 2.png') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -998,7 +998,7 @@ body {
 
 .portfolio {
     height: 100vh;
-    background: url('Home 2.png') no-repeat;
+    background: url('./images/home 2.png') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
